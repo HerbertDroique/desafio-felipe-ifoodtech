@@ -1,0 +1,1 @@
+//Criando classe genérica
