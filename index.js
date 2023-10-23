@@ -1,1 +1,1 @@
-//Criando classe genérica
+//Criando classe genérica LoL
